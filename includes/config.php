@@ -1,6 +1,6 @@
 <?php 
 // DB credentials.
-define('DB_HOST','mysqlserverarif.mysql.database.azure.com');
+define('DB_HOST','glennserv.mysql.database.azure.com');
 define('DB_USER','glenn');
 define('DB_PASS','P@ssw0rd');
 define('DB_NAME','carrental');
